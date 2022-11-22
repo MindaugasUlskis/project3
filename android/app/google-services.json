@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706673843385",
+    "project_id": "perdarytas",
+    "storage_bucket": "perdarytas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706673843385:android:6da296b621043be5080f68",
+        "android_client_info": {
+          "package_name": "com.perdarytas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706673843385-k9km03mhrl92bn3a74am5t4hj0oba2vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perdarytas",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "706673843385-jatgfunqiptq65kpdr37kbrlb4rc2e0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLpHN3I4j_02TZy9Q1EPMC4CdZwTCdqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706673843385-jatgfunqiptq65kpdr37kbrlb4rc2e0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
